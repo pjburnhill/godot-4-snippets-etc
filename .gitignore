@@ -1,0 +1,77 @@
+### Ignore temporary files and build results
+*.[Dd]ebug/
+*.[Rr]elease/
+*.obj/
+*.o/
+*.min.*
+*.log
+*.swp
+*.tmp
+*.pidb
+*.svclog
+*.scc
+
+### Ignore IDE files
+*.idea
+*.iml
+*.ipr
+
+### Ignore virtual machine files
+*.vmdk
+*.vdi
+*.vmx
+
+### Ignore other files
+*.DS_Store
+*.Thumbs.db
+*.pyc
+*.class
+*.sln
+*.csproj
+*.vbproj
+*.pdb
+*.ncb
+*.sdf
+*.cache
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.log
+*.tlog
+*.pidb
+*.svclog
+*.scc
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+### Ignore node_modules
+node_modules/
+
+### Ignore npm-debug.log
+npm-debug.log
+
+### Ignore coverage reports
+coverage/
+
+### Ignore linter reports
+.eslintrc.*
+.prettierrc.*
